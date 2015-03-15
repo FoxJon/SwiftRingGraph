@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6765C999-30DD-47AA-B02D-7F20D8447089</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftRingGraph</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F134EAA86D27B2488B78B09958D5BB86BCF7B7A</key>
+		<string>https://github.com/FoxJon/SwiftRingGraph.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftRingGraph.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F134EAA86D27B2488B78B09958D5BB86BCF7B7A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/FoxJon/SwiftRingGraph.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2F134EAA86D27B2488B78B09958D5BB86BCF7B7A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F134EAA86D27B2488B78B09958D5BB86BCF7B7A</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F134EAA86D27B2488B78B09958D5BB86BCF7B7A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftRingGraph</string>
+		</dict>
+	</array>
+</dict>
+</plist>
