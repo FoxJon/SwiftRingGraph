@@ -8,10 +8,14 @@ class ViewController: UIViewController {
     var animating = false
     
     @IBOutlet weak var percentLabel: UILabel!
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        circleDrawingView.frame = CGRectMake(14, 138, 292, 292)
+        let circleWidth:CGFloat = 280.0
+        let center = CGPoint(x: view.bounds.midX, y: view.bounds.midY)
+        circleDrawingView.frame = CGRectMake(center.x - (circleWidth/2 + 6), center.y - (circleWidth/2 + 6), circleWidth + 12, circleWidth + 12)
         view.insertSubview(circleDrawingView, atIndex: 0)
     }
     

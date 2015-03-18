@@ -1,6 +1,5 @@
 import UIKit
 
-@IBDesignable
 class CircleDrawingView: UIView {
     
     let circleLayer = CAShapeLayer()
@@ -38,7 +37,7 @@ class CircleDrawingView: UIView {
     }
     
     
-    func makeRandomNumber()->Double{
+    func makeRandomNumber()->Double {
         //random number between 1 and 2
         endAngleMultiplier = Double(arc4random()) / Double(UInt32.max) + 1
         return endAngleMultiplier!

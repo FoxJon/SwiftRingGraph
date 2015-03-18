@@ -1,5 +1,4 @@
 # SwiftRingGraph
-***CURRENTLY ONLY OPTIMIZED FOR iPHONE 5s***
 
 A custom animated circle graph in Swift
 
