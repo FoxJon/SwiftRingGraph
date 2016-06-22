@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     
     
     func startTimer(){
-        timer = NSTimer.scheduledTimerWithTimeInterval(0.02, target:self, selector: Selector("updateLabel"), userInfo: nil, repeats: true)
+        timer = NSTimer.scheduledTimerWithTimeInterval(0.02, target:self, selector: #selector(ViewController.updateLabel), userInfo: nil, repeats: true)
     }
     
     

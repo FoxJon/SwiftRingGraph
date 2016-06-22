@@ -28,8 +28,8 @@ class CircleDrawingView: UIView {
         
         let center = CGPoint(x: bounds.midX, y: bounds.midY)
         let radius = min(bounds.width, bounds.height) / 2 - circleLayer.lineWidth/2
-        var startAngle = CGFloat(-M_PI_2)
-        var endAngle = startAngle + CGFloat(M_PI * makeRandomNumber())
+        let startAngle = CGFloat(-M_PI_2)
+        let endAngle = startAngle + CGFloat(M_PI * makeRandomNumber())
         let path = UIBezierPath(arcCenter: CGPointZero, radius: radius, startAngle: startAngle, endAngle: endAngle, clockwise: true)
         
         circleLayer.position = center
